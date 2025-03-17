@@ -1,4 +1,4 @@
-Airbnb NYC Analysis, Visualization!!
+AIRBNB NYC ANALYSIS, VISUALIZATION!!
 
 
 📌 Overview
