@@ -18,7 +18,7 @@ In this Jupyter Notebook, we explore:
 ✔️ Geospatial Analysis of Airbnb Listings in NYC
 
 
-[image alt](https://github.com/AspiringAnalyst001/Airbnb-NYC-Analysis-Visualization./blob/main/Map.png?raw=true)
+
 
 
 🚀 Let’s Explore NYC’s Airbnb Market!
